@@ -1,4 +1,4 @@
-#include "randfuncs.h"
+#include "rand_func.h"
 #include <cstdlib>
 
 int flipCoin()
