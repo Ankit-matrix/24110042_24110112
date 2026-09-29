@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
-#include "randfuncs.h"
+#include "rand_func.h"
 #include "mathfuncs.h"
 
 using namespace std;
