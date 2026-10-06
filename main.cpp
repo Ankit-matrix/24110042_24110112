@@ -20,7 +20,7 @@ int main()
     int b = subtract(5, 4);
     int c = multiply(9, 10);
     int d = divide(2, 5);
-
+    fake_false_error_for_Action;
     cout << "Add: " << a << endl;
     cout << "Subtract: " << b << endl;
     cout << "Multiply: " << c << endl;
